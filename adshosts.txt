@@ -482,9 +482,6 @@
 0.0.0.0 r4.sn-cxaaj5o5q5-tt16.googlevideo.com
 0.0.0.0 r2.sn-u2oxu-2v16.googlevideo.com
 0.0.0.0 r3.sn-q5u5bgv02-3c26.googlevideo.com
-0.0.0.0 r3---sn-mjput03g-afve.googlevideo.com
-0.0.0.0 r2---sn-mjput03g-afve.googlevideo.com
-0.0.0.0 r1---sn-mjput03g-afve.googlevideo.com
 0.0.0.0 r0---sn-1gi7znel.googlevideo.com
 0.0.0.0 r0---sn-25ge7n7d.googlevideo.com
 0.0.0.0 r0---sn-25ge7n7e.googlevideo.com
