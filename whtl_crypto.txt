@@ -21,3 +21,6 @@ staging.ethermine.org
 api-etc.ethermine.org
 ethereum-node-us.ethermine.org
 us2.ethermine.org
+r1---sn-mjput03g-afve.googlevideo.com
+r2---sn-mjput03g-afve.googlevideo.com
+r3---sn-mjput03g-afve.googlevideo.com
