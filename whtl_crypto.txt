@@ -21,9 +21,6 @@ staging.ethermine.org
 api-etc.ethermine.org
 ethereum-node-us.ethermine.org
 us2.ethermine.org
-r1---sn-mjput03g-afve.googlevideo.com
-r2---sn-mjput03g-afve.googlevideo.com
-r3---sn-mjput03g-afve.googlevideo.com
 0-0-sz.inc.antpool.com
 0-0.028.openvpn.cloud.btcchina.com
 0-100-195.btcc.com
