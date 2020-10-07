@@ -5,6 +5,8 @@
 0.0.0.0 r1.sn-3c27sn7y.googlevideo.com
 0.0.0.0 r1.sn-3c27sn7z.googlevideo.com
 0.0.0.0 r1.sn-3c27snee.googlevideo.com
+0.0.0.0 r17.sn-3c27snee.googlevideo.com
+0.0.0.0 r17---sn-3c27snee.googlevideo.com
 0.0.0.0 r1.sn-3c27snel.googlevideo.com
 0.0.0.0 r1.sn-4pa5ojvg0-n8ve.googlevideo.com
 0.0.0.0 r1.sn-4pvgq-n8ve.googlevideo.com
