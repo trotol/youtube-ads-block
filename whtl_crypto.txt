@@ -25,3 +25,4 @@ go.squidapp.co
 r3.sn-mjput03g-afve.googlevideo.com
 r2.sn-mjput03g-afve.googlevideo.com
 r1.sn-mjput03g-afve.googlevideo.com
+gate.io
